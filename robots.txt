@@ -1,0 +1,10 @@
+# robots.txt para permitir el acceso de los motores de búsqueda a todo el sitio
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+
+# Permitir acceso completo al resto del sitio
+Allow: /
+
+# Sitemap de tu página (si ya tienes el sitemap.xml)
+Sitemap: https://m1reya07.github.io/mi-portfolio/sitemap.xml

@@ -8,4 +8,4 @@ Además, la galería de iconos de Bootstrap fue muy útil, ya que me permitió a
 Esto facilitó la integración de iconos para botones, enlaces y otros elementos interactivos, mejorando la estética y la funcionalidad de la página de manera sencilla.
 
 ## Enlace de la página
-Puedes ver mi portfolio en el siguiente enlace: [Mi Portfolio en GitHub Pages](https://github.com/M1reya07/mi-portfolio)
+Puedes ver mi portfolio en el siguiente enlace: [Mi Portfolio en GitHub Pages](https://m1reya07.github.io/mi-portfolio/)
